@@ -348,7 +348,7 @@
 </section>
 
 	<footer >
-		<h5> 2021@PT.Liaupedia</h5>
+		<h5> 2022@PT.Liaupedia</h5>
 	</footer>
 
 	<script type="text/javascript" src="js/bootstrap.js"></script>
